@@ -1,2 +1,3 @@
 # -Pong-Game
-First Game Made
+First Game Made in C++
+
